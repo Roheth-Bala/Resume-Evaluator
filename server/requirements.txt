@@ -3,7 +3,6 @@ fastapi
 langchain
 langchain.ollama
 pydantic
-zipfile
 io
 PyPDF2
 python-multipart
